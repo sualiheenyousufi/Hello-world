@@ -2,5 +2,5 @@
 
 AssalamoAleykum 
 
-This is my first githun Repository .
+This is my first github Repository .
 Trying to learn more on it :) 
